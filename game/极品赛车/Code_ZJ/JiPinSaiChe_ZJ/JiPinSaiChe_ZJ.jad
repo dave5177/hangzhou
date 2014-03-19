@@ -1,0 +1,13 @@
+ImageServerUrl_ZJ_New: http://122.224.212.79:8088/HZZN_iptv_Res/jpsc
+MIDlet-1: Midlet,,com.dave.jpsc.main.MainMIDlet
+MIDlet-Jar-URL: JiPinSaiChe_ZJ.jar
+ImageServerUrl_AH: http://61.191.44.224:8080/GameResource/jpsc
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Name: JiPinSaiChe_ZJ Midlet Suite
+ImageServerUrl_ZJ: http://122.224.212.78:7878/GameResource/jpsc
+MicroEdition-Profile: MIDP-2.0
+ImageServerUrl: http://222.46.20.151:8055/jpsc
+ImageServerUrl_JS: http://61.160.131.57:8083/GameResource/jpsc
+ImageServerUrl_Local: http://222.46.20.151:8055/jpsc

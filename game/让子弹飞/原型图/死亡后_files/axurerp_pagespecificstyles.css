@@ -1,0 +1,944 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../死亡后_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:640px;
+    height:530px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:646px;
+    height:536px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:257px;
+    width:636px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u2 {
+    position:absolute;
+    left:660px;
+    top:43px;
+    width:400px;
+    height:65px
+}
+
+.u3_normal {
+    background-image: url('../死亡后_files/u3_normal.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:97px;
+    height:20px;
+}
+
+#u3_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:26px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../死亡后_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:97px;
+    top:0px;
+    width:98px;
+    height:20px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:26px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:94px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../死亡后_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:195px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../死亡后_files/u7_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:295px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../死亡后_files/u3_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:97px;
+    height:20px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:26px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../死亡后_files/u5_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:97px;
+    top:20px;
+    width:98px;
+    height:20px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:26px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:94px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../死亡后_files/u7_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:195px;
+    top:20px;
+    width:100px;
+    height:20px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../死亡后_files/u7_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:295px;
+    top:20px;
+    width:100px;
+    height:20px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../死亡后_files/u3_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:97px;
+    height:20px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:26px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../死亡后_files/u5_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:97px;
+    top:40px;
+    width:98px;
+    height:20px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:26px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:94px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../死亡后_files/u7_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:195px;
+    top:40px;
+    width:100px;
+    height:20px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../死亡后_files/u7_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:295px;
+    top:40px;
+    width:100px;
+    height:20px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:660px;
+    top:122px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:660px;
+    top:27px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u29 {
+    position:absolute;
+    left:660px;
+    top:223px;
+    width:407px;
+    height:45px
+}
+
+.u30_normal {
+    background-image: url('../死亡后_files/u7_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_normal {
+    background-image: url('../死亡后_files/u32_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:100px;
+    top:0px;
+    width:302px;
+    height:20px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:308px;
+    height:26px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:298px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_normal {
+    background-image: url('../死亡后_files/u7_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:100px;
+    height:20px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../死亡后_files/u32_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:100px;
+    top:20px;
+    width:302px;
+    height:20px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:308px;
+    height:26px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:298px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:660px;
+    top:207px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u39 {
+    position:absolute;
+    left:660px;
+    top:138px;
+    width:407px;
+    height:25px
+}
+
+.u40_normal {
+    background-image: url('../死亡后_files/u40_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:402px;
+    height:20px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:408px;
+    height:26px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:398px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_container {
+    position:absolute;
+    left:30px;
+    top:23px;
+    width:600px;
+    height:500px;
+}
+
+#u42_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:600px;
+    height:500px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:242px;
+    width:596px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../死亡后_files/u44_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:246px;
+    top:87px;
+    width:180px;
+    height:188px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:194px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:86px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:286px;
+    top:121px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u47 {
+    position:absolute;
+    left:286px;
+    top:167px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u48 {
+    position:absolute;
+    left:286px;
+    top:213px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u49_normal {
+    background-image: url('../死亡后_files/u49_normal.png');
+}
+
+.u49_container {
+    position:absolute;
+    left:30px;
+    top:586px;
+    width:207px;
+    height:119px;
+}
+
+#u49_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:213px;
+    height:125px;
+}
+
+.u50 {
+    position:absolute;
+    left:2px;
+    top:36px;
+    width:203px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51 {
+    position:absolute;
+    left:58px;
+    top:673px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52 {
+    position:absolute;
+    left:175px;
+    top:673px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53_normal {
+    background-image: url('../死亡后_files/u49_normal.png');
+}
+
+.u53_container {
+    position:absolute;
+    left:276px;
+    top:586px;
+    width:207px;
+    height:119px;
+}
+
+#u53_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:213px;
+    height:125px;
+}
+
+.u54 {
+    position:absolute;
+    left:2px;
+    top:52px;
+    width:203px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55 {
+    position:absolute;
+    left:304px;
+    top:673px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56 {
+    position:absolute;
+    left:421px;
+    top:673px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

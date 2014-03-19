@@ -1,0 +1,10 @@
+MIDlet-1: Midlet,,com.dave.worldWar.main.MainMIDlet
+MIDlet-Jar-URL: WorldWar_AH.jar
+ImageServerUrl_AH: http://61.191.44.224:8080/GameResource/worldWar
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+MIDlet-Name: WorldWar_AH Midlet Suite
+MIDlet-Vendor: Midlet Suite Vendor
+MicroEdition-Profile: MIDP-2.0
+ImageServerUrl: http://61.191.44.224:8080/GameResource/worldWar
+ImageServerUrl_Local: http://222.46.20.151:8055/worldWar

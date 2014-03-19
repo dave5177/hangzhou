@@ -1,0 +1,11 @@
+ImageServerUrl: http://61.160.131.57:8083/GameResource/pbtj
+ImageServerUrl_JS: http://61.160.131.57:8083/GameResource/pbtj
+ImageServerUrl_Local: http://222.46.20.151:8055/pbtj
+MIDlet-1: Midlet,,com.dave.paoBing.main.MainMIDlet
+MIDlet-Jar-Size: 797211
+MIDlet-Jar-URL: PaoBingTuJi_HS.jar
+MIDlet-Name: PaoBingTuJi_HS Midlet Suite
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

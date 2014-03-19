@@ -1,0 +1,8 @@
+MIDlet-1: Midlet,,com.dave.rangzidanf.main.MainMIDlet
+MIDlet-Jar-Size: 2357818
+MIDlet-Jar-URL: Rangzidanf_ZJ.jar
+MIDlet-Name: Rangzidanf_ZJ Midlet Suite
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

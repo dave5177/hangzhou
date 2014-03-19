@@ -1,0 +1,14 @@
+ImageServerUrl: http://61.191.44.224:8080/GameResource/ftxz
+ImageServerUrl_AH: http://61.191.44.224:8080/GameResource/ftxz
+ImageServerUrl_JS: http://61.160.131.57:8083/GameResource/ftxz
+ImageServerUrl_Local: http://222.46.20.151:8055/ftxz
+ImageServerUrl_ZJ: http://122.224.212.78:7878/GameResource/ftxz
+ImageServerUrl_ZJ_New: http://122.224.212.79:8088/HZZN_iptv_Res/ftxz
+MIDlet-1: Midlet,,com.dave.ftxz.main.MainMIDlet
+MIDlet-Jar-Size: 1493686
+MIDlet-Jar-URL: FeiTianXiaoZi_AH.jar
+MIDlet-Name: FeiTianXiaoZi_AH Midlet Suite
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

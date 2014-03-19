@@ -1,0 +1,546 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#u0 {
+    position:absolute;
+    left:666px;
+    top:36px;
+    width:447px;
+    height:145px
+}
+
+.u1_normal {
+    background-image: url('../英雄_files/u1_normal.png');
+}
+
+.u1_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u1_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u2 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3_normal {
+    background-image: url('../英雄_files/u3_normal.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:100px;
+    top:0px;
+    width:43px;
+    height:20px;
+}
+
+#u3_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:49px;
+    height:26px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:39px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../英雄_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:143px;
+    top:0px;
+    width:299px;
+    height:20px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:305px;
+    height:26px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:295px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../英雄_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:100px;
+    height:36px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:42px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../英雄_files/u9_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:100px;
+    top:20px;
+    width:43px;
+    height:36px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:49px;
+    height:42px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:39px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../英雄_files/u11_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:143px;
+    top:20px;
+    width:299px;
+    height:36px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:305px;
+    height:42px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:295px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../英雄_files/u13_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:0px;
+    top:56px;
+    width:100px;
+    height:84px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:90px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../英雄_files/u15_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:100px;
+    top:56px;
+    width:43px;
+    height:84px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:49px;
+    height:90px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:39px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../英雄_files/u17_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:143px;
+    top:56px;
+    width:299px;
+    height:84px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:305px;
+    height:90px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:295px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19 {
+    position:absolute;
+    left:666px;
+    top:10px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../英雄_files/u20_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:640px;
+    height:530px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:646px;
+    height:536px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:257px;
+    width:636px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_container {
+    position:absolute;
+    left:29px;
+    top:146px;
+    width:593px;
+    height:384px;
+}
+
+#u22_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:593px;
+    height:384px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:184px;
+    width:589px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:47px;
+    top:46px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25 {
+    position:absolute;
+    left:41px;
+    top:69px;
+    width:581px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:47px;
+    top:121px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:310px;
+    top:266px;
+    width:18px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:542px;
+    top:506px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u29 {
+    position:absolute;
+    left:41px;
+    top:95px;
+    width:581px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:41px;
+    top:184px;
+    width:581px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:42px;
+    top:146px;
+    width:581px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:40px;
+    top:404px;
+    width:581px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

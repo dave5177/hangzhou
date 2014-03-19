@@ -1,0 +1,4630 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../装备室_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:640px;
+    height:530px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:646px;
+    height:536px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:257px;
+    width:636px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u2 {
+    position:absolute;
+    left:660px;
+    top:25px;
+    width:400px;
+    height:250px
+}
+
+.u3_normal {
+    background-image: url('../装备室_files/u3_normal.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:97px;
+    height:20px;
+}
+
+#u3_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:26px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../装备室_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:97px;
+    top:0px;
+    width:98px;
+    height:20px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:26px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:94px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../装备室_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:195px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../装备室_files/u7_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:295px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../装备室_files/u3_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:97px;
+    height:20px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:26px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../装备室_files/u5_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:97px;
+    top:20px;
+    width:98px;
+    height:20px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:26px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:94px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../装备室_files/u7_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:195px;
+    top:20px;
+    width:100px;
+    height:20px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../装备室_files/u7_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:295px;
+    top:20px;
+    width:100px;
+    height:20px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../装备室_files/u3_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:97px;
+    height:20px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:26px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../装备室_files/u5_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:97px;
+    top:40px;
+    width:98px;
+    height:20px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:26px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:94px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../装备室_files/u7_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:195px;
+    top:40px;
+    width:100px;
+    height:20px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../装备室_files/u7_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:295px;
+    top:40px;
+    width:100px;
+    height:20px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../装备室_files/u3_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:97px;
+    height:20px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:26px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../装备室_files/u5_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:97px;
+    top:60px;
+    width:98px;
+    height:20px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:26px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:94px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31_normal {
+    background-image: url('../装备室_files/u7_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:195px;
+    top:60px;
+    width:100px;
+    height:20px;
+}
+
+#u31_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_normal {
+    background-image: url('../装备室_files/u7_normal.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:295px;
+    top:60px;
+    width:100px;
+    height:20px;
+}
+
+#u33_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u34 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35_normal {
+    background-image: url('../装备室_files/u35_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:0px;
+    top:80px;
+    width:97px;
+    height:21px;
+}
+
+#u35_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:27px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37_normal {
+    background-image: url('../装备室_files/u37_normal.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:97px;
+    top:80px;
+    width:98px;
+    height:21px;
+}
+
+#u37_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:27px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:94px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39_normal {
+    background-image: url('../装备室_files/u39_normal.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:195px;
+    top:80px;
+    width:100px;
+    height:21px;
+}
+
+#u39_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:27px;
+}
+
+.u40 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41_normal {
+    background-image: url('../装备室_files/u39_normal.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:295px;
+    top:80px;
+    width:100px;
+    height:21px;
+}
+
+#u41_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:27px;
+}
+
+.u42 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43_normal {
+    background-image: url('../装备室_files/u3_normal.png');
+}
+
+.u43_container {
+    position:absolute;
+    left:0px;
+    top:101px;
+    width:97px;
+    height:20px;
+}
+
+#u43_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:26px;
+}
+
+.u44 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45_normal {
+    background-image: url('../装备室_files/u5_normal.png');
+}
+
+.u45_container {
+    position:absolute;
+    left:97px;
+    top:101px;
+    width:98px;
+    height:20px;
+}
+
+#u45_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:26px;
+}
+
+.u46 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:94px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../装备室_files/u7_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:195px;
+    top:101px;
+    width:100px;
+    height:20px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49_normal {
+    background-image: url('../装备室_files/u7_normal.png');
+}
+
+.u49_container {
+    position:absolute;
+    left:295px;
+    top:101px;
+    width:100px;
+    height:20px;
+}
+
+#u49_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u50 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51_normal {
+    background-image: url('../装备室_files/u3_normal.png');
+}
+
+.u51_container {
+    position:absolute;
+    left:0px;
+    top:121px;
+    width:97px;
+    height:20px;
+}
+
+#u51_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:26px;
+}
+
+.u52 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53_normal {
+    background-image: url('../装备室_files/u5_normal.png');
+}
+
+.u53_container {
+    position:absolute;
+    left:97px;
+    top:121px;
+    width:98px;
+    height:20px;
+}
+
+#u53_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:26px;
+}
+
+.u54 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:94px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55_normal {
+    background-image: url('../装备室_files/u7_normal.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:195px;
+    top:121px;
+    width:100px;
+    height:20px;
+}
+
+#u55_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u56 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_normal {
+    background-image: url('../装备室_files/u7_normal.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:295px;
+    top:121px;
+    width:100px;
+    height:20px;
+}
+
+#u57_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59_normal {
+    background-image: url('../装备室_files/u59_normal.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:0px;
+    top:141px;
+    width:97px;
+    height:52px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:58px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61_normal {
+    background-image: url('../装备室_files/u61_normal.png');
+}
+
+.u61_container {
+    position:absolute;
+    left:97px;
+    top:141px;
+    width:98px;
+    height:52px;
+}
+
+#u61_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:58px;
+}
+
+.u62 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:94px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63_normal {
+    background-image: url('../装备室_files/u63_normal.png');
+}
+
+.u63_container {
+    position:absolute;
+    left:195px;
+    top:141px;
+    width:100px;
+    height:52px;
+}
+
+#u63_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:58px;
+}
+
+.u64 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65_normal {
+    background-image: url('../装备室_files/u63_normal.png');
+}
+
+.u65_container {
+    position:absolute;
+    left:295px;
+    top:141px;
+    width:100px;
+    height:52px;
+}
+
+#u65_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:58px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67_normal {
+    background-image: url('../装备室_files/u59_normal.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:0px;
+    top:193px;
+    width:97px;
+    height:52px;
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:58px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_normal {
+    background-image: url('../装备室_files/u61_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:97px;
+    top:193px;
+    width:98px;
+    height:52px;
+}
+
+#u69_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:58px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:94px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71_normal {
+    background-image: url('../装备室_files/u63_normal.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:195px;
+    top:193px;
+    width:100px;
+    height:52px;
+}
+
+#u71_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:58px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73_normal {
+    background-image: url('../装备室_files/u63_normal.png');
+}
+
+.u73_container {
+    position:absolute;
+    left:295px;
+    top:193px;
+    width:100px;
+    height:52px;
+}
+
+#u73_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:58px;
+}
+
+.u74 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75 {
+    position:absolute;
+    left:660px;
+    top:296px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76 {
+    position:absolute;
+    left:660px;
+    top:9px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u77 {
+    position:absolute;
+    left:660px;
+    top:379px;
+    width:407px;
+    height:125px
+}
+
+.u78_normal {
+    background-image: url('../装备室_files/u7_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:20px;
+}
+
+#u78_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../装备室_files/u80_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:100px;
+    top:0px;
+    width:302px;
+    height:20px;
+}
+
+#u80_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:308px;
+    height:26px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:298px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../装备室_files/u7_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:100px;
+    height:20px;
+}
+
+#u82_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_normal {
+    background-image: url('../装备室_files/u80_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:100px;
+    top:20px;
+    width:302px;
+    height:20px;
+}
+
+#u84_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:308px;
+    height:26px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:298px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_normal {
+    background-image: url('../装备室_files/u7_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:100px;
+    height:20px;
+}
+
+#u86_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88_normal {
+    background-image: url('../装备室_files/u80_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:100px;
+    top:40px;
+    width:302px;
+    height:20px;
+}
+
+#u88_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:308px;
+    height:26px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:298px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../装备室_files/u7_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:100px;
+    height:20px;
+}
+
+#u90_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_normal {
+    background-image: url('../装备室_files/u80_normal.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:100px;
+    top:60px;
+    width:302px;
+    height:20px;
+}
+
+#u92_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:308px;
+    height:26px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:298px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94_normal {
+    background-image: url('../装备室_files/u7_normal.png');
+}
+
+.u94_container {
+    position:absolute;
+    left:0px;
+    top:80px;
+    width:100px;
+    height:20px;
+}
+
+#u94_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u95 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96_normal {
+    background-image: url('../装备室_files/u80_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:100px;
+    top:80px;
+    width:302px;
+    height:20px;
+}
+
+#u96_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:308px;
+    height:26px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:298px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../装备室_files/u7_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:0px;
+    top:100px;
+    width:100px;
+    height:20px;
+}
+
+#u98_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:26px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100_normal {
+    background-image: url('../装备室_files/u80_normal.png');
+}
+
+.u100_container {
+    position:absolute;
+    left:100px;
+    top:100px;
+    width:302px;
+    height:20px;
+}
+
+#u100_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:308px;
+    height:26px;
+}
+
+.u101 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:298px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102 {
+    position:absolute;
+    left:660px;
+    top:363px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u103 {
+    position:absolute;
+    left:660px;
+    top:312px;
+    width:407px;
+    height:41px
+}
+
+.u104_normal {
+    background-image: url('../装备室_files/u104_normal.png');
+}
+
+.u104_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:402px;
+    height:36px;
+}
+
+#u104_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:408px;
+    height:42px;
+}
+
+.u105 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:398px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106 {
+    position:absolute;
+    left:226px;
+    top:27px;
+    width:250px;
+    height:83px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u107 {
+    position:absolute;
+    left:46px;
+    top:332px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108 {
+    position:absolute;
+    left:26px;
+    top:157px;
+    width:150px;
+    height:112px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u109_normal {
+    background-image: url('../装备室_files/u109_normal.png');
+}
+
+.u109_container {
+    position:absolute;
+    left:46px;
+    top:420px;
+    width:550px;
+    height:80px;
+}
+
+#u109_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:556px;
+    height:86px;
+}
+
+.u110 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:546px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u111 {
+    position:absolute;
+    left:541px;
+    top:507px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u112 {
+    position:absolute;
+    left:280px;
+    top:507px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u113_container {
+    position:absolute;
+    left:213px;
+    top:358px;
+    width:95px;
+    height:31px;
+}
+
+#u113_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:95px;
+    height:31px;
+}
+
+.u114 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:91px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u115_container {
+    position:absolute;
+    left:127px;
+    top:356px;
+    width:86px;
+    height:33px;
+}
+
+#u115_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:86px;
+    height:33px;
+}
+
+.u116 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:82px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u117_container {
+    position:absolute;
+    left:309px;
+    top:346px;
+    width:111px;
+    height:62px;
+}
+
+#u117_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:111px;
+    height:62px;
+}
+
+.u118 {
+    position:absolute;
+    left:2px;
+    top:23px;
+    width:107px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u119_container {
+    position:absolute;
+    left:12px;
+    top:354px;
+    width:110px;
+    height:54px;
+}
+
+#u119_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:110px;
+    height:54px;
+}
+
+.u120 {
+    position:absolute;
+    left:2px;
+    top:19px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u121_container {
+    position:absolute;
+    left:421px;
+    top:346px;
+    width:106px;
+    height:53px;
+}
+
+#u121_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:106px;
+    height:53px;
+}
+
+.u122 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:102px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u123_container {
+    position:absolute;
+    left:529px;
+    top:346px;
+    width:115px;
+    height:69px;
+}
+
+#u123_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:115px;
+    height:69px;
+}
+
+.u124 {
+    position:absolute;
+    left:2px;
+    top:26px;
+    width:111px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u125 {
+    position:absolute;
+    left:265px;
+    top:124px;
+    width:341px;
+    height:167px;
+    overflow:hidden;
+}
+
+#pd0u125 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:167px;
+    
+}
+
+.u126_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:340px;
+    height:166px;
+}
+
+#u126_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:340px;
+    height:166px;
+}
+
+.u127 {
+    position:absolute;
+    left:2px;
+    top:75px;
+    width:336px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u128 {
+    position:absolute;
+    left:265px;
+    top:139px;
+    width:352px;
+    height:137px;
+    overflow:hidden;
+}
+
+#pd0u128 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:352px;
+    height:137px;
+    
+}
+
+.u129_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:351px;
+    height:136px;
+}
+
+#u129_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:351px;
+    height:136px;
+}
+
+.u130 {
+    position:absolute;
+    left:2px;
+    top:60px;
+    width:347px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u131 {
+    position:absolute;
+    left:251px;
+    top:150px;
+    width:366px;
+    height:115px;
+    overflow:hidden;
+}
+
+#pd0u131 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:366px;
+    height:115px;
+    
+}
+
+.u132_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:365px;
+    height:114px;
+}
+
+#u132_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:365px;
+    height:114px;
+}
+
+.u133 {
+    position:absolute;
+    left:2px;
+    top:49px;
+    width:361px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u134 {
+    position:absolute;
+    left:260px;
+    top:120px;
+    width:350px;
+    height:197px;
+    overflow:hidden;
+}
+
+#pd0u134 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:350px;
+    height:197px;
+    
+}
+
+.u135_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:349px;
+    height:196px;
+}
+
+#u135_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:349px;
+    height:196px;
+}
+
+.u136 {
+    position:absolute;
+    left:2px;
+    top:90px;
+    width:345px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u137 {
+    position:absolute;
+    left:248px;
+    top:120px;
+    width:373px;
+    height:187px;
+    overflow:hidden;
+}
+
+#pd0u137 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:373px;
+    height:187px;
+    
+}
+
+.u138_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:372px;
+    height:186px;
+}
+
+#u138_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:372px;
+    height:186px;
+}
+
+.u139 {
+    position:absolute;
+    left:2px;
+    top:85px;
+    width:368px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u140 {
+    position:absolute;
+    left:237px;
+    top:107px;
+    width:373px;
+    height:223px;
+    overflow:hidden;
+}
+
+#pd0u140 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:373px;
+    height:223px;
+    
+}
+
+.u141_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:372px;
+    height:222px;
+}
+
+#u141_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:372px;
+    height:222px;
+}
+
+.u142 {
+    position:absolute;
+    left:2px;
+    top:103px;
+    width:368px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u143 {
+    position:absolute;
+    left:660px;
+    top:531px;
+    width:806px;
+    height:257px
+}
+
+.u144_normal {
+    background-image: url('../装备室_files/u144_normal.png');
+}
+
+.u144_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:120px;
+    height:36px;
+}
+
+#u144_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:42px;
+}
+
+.u145 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146_normal {
+    background-image: url('../装备室_files/u146_normal.png');
+}
+
+.u146_container {
+    position:absolute;
+    left:120px;
+    top:0px;
+    width:55px;
+    height:36px;
+}
+
+#u146_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:42px;
+}
+
+.u147 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:51px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148_normal {
+    background-image: url('../装备室_files/u148_normal.png');
+}
+
+.u148_container {
+    position:absolute;
+    left:175px;
+    top:0px;
+    width:38px;
+    height:36px;
+}
+
+#u148_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:44px;
+    height:42px;
+}
+
+.u149 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:34px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150_normal {
+    background-image: url('../装备室_files/u150_normal.png');
+}
+
+.u150_container {
+    position:absolute;
+    left:213px;
+    top:0px;
+    width:41px;
+    height:36px;
+}
+
+#u150_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:47px;
+    height:42px;
+}
+
+.u151 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:37px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152_normal {
+    background-image: url('../装备室_files/u152_normal.png');
+}
+
+.u152_container {
+    position:absolute;
+    left:254px;
+    top:0px;
+    width:64px;
+    height:36px;
+}
+
+#u152_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:42px;
+}
+
+.u153 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u154_normal {
+    background-image: url('../装备室_files/u154_normal.png');
+}
+
+.u154_container {
+    position:absolute;
+    left:318px;
+    top:0px;
+    width:51px;
+    height:36px;
+}
+
+#u154_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:57px;
+    height:42px;
+}
+
+.u155 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:47px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u156_normal {
+    background-image: url('../装备室_files/u156_normal.png');
+}
+
+.u156_container {
+    position:absolute;
+    left:369px;
+    top:0px;
+    width:54px;
+    height:36px;
+}
+
+#u156_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:60px;
+    height:42px;
+}
+
+.u157 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:50px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u158_normal {
+    background-image: url('../装备室_files/u158_normal.png');
+}
+
+.u158_container {
+    position:absolute;
+    left:423px;
+    top:0px;
+    width:40px;
+    height:36px;
+}
+
+#u158_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:42px;
+}
+
+.u159 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u160_normal {
+    background-image: url('../装备室_files/u160_normal.png');
+}
+
+.u160_container {
+    position:absolute;
+    left:463px;
+    top:0px;
+    width:338px;
+    height:36px;
+}
+
+#u160_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:344px;
+    height:42px;
+}
+
+.u161 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:334px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u162_normal {
+    background-image: url('../装备室_files/u144_normal.png');
+}
+
+.u162_container {
+    position:absolute;
+    left:0px;
+    top:36px;
+    width:120px;
+    height:36px;
+}
+
+#u162_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:42px;
+}
+
+.u163 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u164_normal {
+    background-image: url('../装备室_files/u146_normal.png');
+}
+
+.u164_container {
+    position:absolute;
+    left:120px;
+    top:36px;
+    width:55px;
+    height:36px;
+}
+
+#u164_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:42px;
+}
+
+.u165 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:51px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u166_normal {
+    background-image: url('../装备室_files/u148_normal.png');
+}
+
+.u166_container {
+    position:absolute;
+    left:175px;
+    top:36px;
+    width:38px;
+    height:36px;
+}
+
+#u166_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:44px;
+    height:42px;
+}
+
+.u167 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:34px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u168_normal {
+    background-image: url('../装备室_files/u150_normal.png');
+}
+
+.u168_container {
+    position:absolute;
+    left:213px;
+    top:36px;
+    width:41px;
+    height:36px;
+}
+
+#u168_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:47px;
+    height:42px;
+}
+
+.u169 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:37px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u170_normal {
+    background-image: url('../装备室_files/u152_normal.png');
+}
+
+.u170_container {
+    position:absolute;
+    left:254px;
+    top:36px;
+    width:64px;
+    height:36px;
+}
+
+#u170_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:42px;
+}
+
+.u171 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u172_normal {
+    background-image: url('../装备室_files/u154_normal.png');
+}
+
+.u172_container {
+    position:absolute;
+    left:318px;
+    top:36px;
+    width:51px;
+    height:36px;
+}
+
+#u172_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:57px;
+    height:42px;
+}
+
+.u173 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:47px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u174_normal {
+    background-image: url('../装备室_files/u156_normal.png');
+}
+
+.u174_container {
+    position:absolute;
+    left:369px;
+    top:36px;
+    width:54px;
+    height:36px;
+}
+
+#u174_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:60px;
+    height:42px;
+}
+
+.u175 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:50px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u176_normal {
+    background-image: url('../装备室_files/u158_normal.png');
+}
+
+.u176_container {
+    position:absolute;
+    left:423px;
+    top:36px;
+    width:40px;
+    height:36px;
+}
+
+#u176_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:42px;
+}
+
+.u177 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u178_normal {
+    background-image: url('../装备室_files/u160_normal.png');
+}
+
+.u178_container {
+    position:absolute;
+    left:463px;
+    top:36px;
+    width:338px;
+    height:36px;
+}
+
+#u178_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:344px;
+    height:42px;
+}
+
+.u179 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:334px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u180_normal {
+    background-image: url('../装备室_files/u144_normal.png');
+}
+
+.u180_container {
+    position:absolute;
+    left:0px;
+    top:72px;
+    width:120px;
+    height:36px;
+}
+
+#u180_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:42px;
+}
+
+.u181 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u182_normal {
+    background-image: url('../装备室_files/u146_normal.png');
+}
+
+.u182_container {
+    position:absolute;
+    left:120px;
+    top:72px;
+    width:55px;
+    height:36px;
+}
+
+#u182_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:42px;
+}
+
+.u183 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:51px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u184_normal {
+    background-image: url('../装备室_files/u148_normal.png');
+}
+
+.u184_container {
+    position:absolute;
+    left:175px;
+    top:72px;
+    width:38px;
+    height:36px;
+}
+
+#u184_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:44px;
+    height:42px;
+}
+
+.u185 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:34px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u186_normal {
+    background-image: url('../装备室_files/u150_normal.png');
+}
+
+.u186_container {
+    position:absolute;
+    left:213px;
+    top:72px;
+    width:41px;
+    height:36px;
+}
+
+#u186_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:47px;
+    height:42px;
+}
+
+.u187 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:37px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u188_normal {
+    background-image: url('../装备室_files/u152_normal.png');
+}
+
+.u188_container {
+    position:absolute;
+    left:254px;
+    top:72px;
+    width:64px;
+    height:36px;
+}
+
+#u188_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:42px;
+}
+
+.u189 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u190_normal {
+    background-image: url('../装备室_files/u154_normal.png');
+}
+
+.u190_container {
+    position:absolute;
+    left:318px;
+    top:72px;
+    width:51px;
+    height:36px;
+}
+
+#u190_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:57px;
+    height:42px;
+}
+
+.u191 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:47px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u192_normal {
+    background-image: url('../装备室_files/u156_normal.png');
+}
+
+.u192_container {
+    position:absolute;
+    left:369px;
+    top:72px;
+    width:54px;
+    height:36px;
+}
+
+#u192_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:60px;
+    height:42px;
+}
+
+.u193 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:50px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u194_normal {
+    background-image: url('../装备室_files/u158_normal.png');
+}
+
+.u194_container {
+    position:absolute;
+    left:423px;
+    top:72px;
+    width:40px;
+    height:36px;
+}
+
+#u194_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:42px;
+}
+
+.u195 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u196_normal {
+    background-image: url('../装备室_files/u160_normal.png');
+}
+
+.u196_container {
+    position:absolute;
+    left:463px;
+    top:72px;
+    width:338px;
+    height:36px;
+}
+
+#u196_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:344px;
+    height:42px;
+}
+
+.u197 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:334px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u198_normal {
+    background-image: url('../装备室_files/u144_normal.png');
+}
+
+.u198_container {
+    position:absolute;
+    left:0px;
+    top:108px;
+    width:120px;
+    height:36px;
+}
+
+#u198_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:42px;
+}
+
+.u199 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u200_normal {
+    background-image: url('../装备室_files/u146_normal.png');
+}
+
+.u200_container {
+    position:absolute;
+    left:120px;
+    top:108px;
+    width:55px;
+    height:36px;
+}
+
+#u200_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:42px;
+}
+
+.u201 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:51px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u202_normal {
+    background-image: url('../装备室_files/u148_normal.png');
+}
+
+.u202_container {
+    position:absolute;
+    left:175px;
+    top:108px;
+    width:38px;
+    height:36px;
+}
+
+#u202_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:44px;
+    height:42px;
+}
+
+.u203 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:34px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u204_normal {
+    background-image: url('../装备室_files/u150_normal.png');
+}
+
+.u204_container {
+    position:absolute;
+    left:213px;
+    top:108px;
+    width:41px;
+    height:36px;
+}
+
+#u204_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:47px;
+    height:42px;
+}
+
+.u205 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:37px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u206_normal {
+    background-image: url('../装备室_files/u152_normal.png');
+}
+
+.u206_container {
+    position:absolute;
+    left:254px;
+    top:108px;
+    width:64px;
+    height:36px;
+}
+
+#u206_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:42px;
+}
+
+.u207 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u208_normal {
+    background-image: url('../装备室_files/u154_normal.png');
+}
+
+.u208_container {
+    position:absolute;
+    left:318px;
+    top:108px;
+    width:51px;
+    height:36px;
+}
+
+#u208_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:57px;
+    height:42px;
+}
+
+.u209 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:47px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u210_normal {
+    background-image: url('../装备室_files/u156_normal.png');
+}
+
+.u210_container {
+    position:absolute;
+    left:369px;
+    top:108px;
+    width:54px;
+    height:36px;
+}
+
+#u210_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:60px;
+    height:42px;
+}
+
+.u211 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:50px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u212_normal {
+    background-image: url('../装备室_files/u158_normal.png');
+}
+
+.u212_container {
+    position:absolute;
+    left:423px;
+    top:108px;
+    width:40px;
+    height:36px;
+}
+
+#u212_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:42px;
+}
+
+.u213 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u214_normal {
+    background-image: url('../装备室_files/u160_normal.png');
+}
+
+.u214_container {
+    position:absolute;
+    left:463px;
+    top:108px;
+    width:338px;
+    height:36px;
+}
+
+#u214_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:344px;
+    height:42px;
+}
+
+.u215 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:334px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u216_normal {
+    background-image: url('../装备室_files/u144_normal.png');
+}
+
+.u216_container {
+    position:absolute;
+    left:0px;
+    top:144px;
+    width:120px;
+    height:36px;
+}
+
+#u216_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:42px;
+}
+
+.u217 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u218_normal {
+    background-image: url('../装备室_files/u146_normal.png');
+}
+
+.u218_container {
+    position:absolute;
+    left:120px;
+    top:144px;
+    width:55px;
+    height:36px;
+}
+
+#u218_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:42px;
+}
+
+.u219 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:51px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u220_normal {
+    background-image: url('../装备室_files/u148_normal.png');
+}
+
+.u220_container {
+    position:absolute;
+    left:175px;
+    top:144px;
+    width:38px;
+    height:36px;
+}
+
+#u220_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:44px;
+    height:42px;
+}
+
+.u221 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:34px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u222_normal {
+    background-image: url('../装备室_files/u150_normal.png');
+}
+
+.u222_container {
+    position:absolute;
+    left:213px;
+    top:144px;
+    width:41px;
+    height:36px;
+}
+
+#u222_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:47px;
+    height:42px;
+}
+
+.u223 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:37px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u224_normal {
+    background-image: url('../装备室_files/u152_normal.png');
+}
+
+.u224_container {
+    position:absolute;
+    left:254px;
+    top:144px;
+    width:64px;
+    height:36px;
+}
+
+#u224_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:42px;
+}
+
+.u225 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u226_normal {
+    background-image: url('../装备室_files/u154_normal.png');
+}
+
+.u226_container {
+    position:absolute;
+    left:318px;
+    top:144px;
+    width:51px;
+    height:36px;
+}
+
+#u226_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:57px;
+    height:42px;
+}
+
+.u227 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:47px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u228_normal {
+    background-image: url('../装备室_files/u156_normal.png');
+}
+
+.u228_container {
+    position:absolute;
+    left:369px;
+    top:144px;
+    width:54px;
+    height:36px;
+}
+
+#u228_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:60px;
+    height:42px;
+}
+
+.u229 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:50px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u230_normal {
+    background-image: url('../装备室_files/u158_normal.png');
+}
+
+.u230_container {
+    position:absolute;
+    left:423px;
+    top:144px;
+    width:40px;
+    height:36px;
+}
+
+#u230_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:42px;
+}
+
+.u231 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u232_normal {
+    background-image: url('../装备室_files/u160_normal.png');
+}
+
+.u232_container {
+    position:absolute;
+    left:463px;
+    top:144px;
+    width:338px;
+    height:36px;
+}
+
+#u232_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:344px;
+    height:42px;
+}
+
+.u233 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:334px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u234_normal {
+    background-image: url('../装备室_files/u144_normal.png');
+}
+
+.u234_container {
+    position:absolute;
+    left:0px;
+    top:180px;
+    width:120px;
+    height:36px;
+}
+
+#u234_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:42px;
+}
+
+.u235 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u236_normal {
+    background-image: url('../装备室_files/u146_normal.png');
+}
+
+.u236_container {
+    position:absolute;
+    left:120px;
+    top:180px;
+    width:55px;
+    height:36px;
+}
+
+#u236_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:42px;
+}
+
+.u237 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:51px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u238_normal {
+    background-image: url('../装备室_files/u148_normal.png');
+}
+
+.u238_container {
+    position:absolute;
+    left:175px;
+    top:180px;
+    width:38px;
+    height:36px;
+}
+
+#u238_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:44px;
+    height:42px;
+}
+
+.u239 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:34px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u240_normal {
+    background-image: url('../装备室_files/u150_normal.png');
+}
+
+.u240_container {
+    position:absolute;
+    left:213px;
+    top:180px;
+    width:41px;
+    height:36px;
+}
+
+#u240_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:47px;
+    height:42px;
+}
+
+.u241 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:37px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u242_normal {
+    background-image: url('../装备室_files/u152_normal.png');
+}
+
+.u242_container {
+    position:absolute;
+    left:254px;
+    top:180px;
+    width:64px;
+    height:36px;
+}
+
+#u242_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:42px;
+}
+
+.u243 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u244_normal {
+    background-image: url('../装备室_files/u154_normal.png');
+}
+
+.u244_container {
+    position:absolute;
+    left:318px;
+    top:180px;
+    width:51px;
+    height:36px;
+}
+
+#u244_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:57px;
+    height:42px;
+}
+
+.u245 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:47px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u246_normal {
+    background-image: url('../装备室_files/u156_normal.png');
+}
+
+.u246_container {
+    position:absolute;
+    left:369px;
+    top:180px;
+    width:54px;
+    height:36px;
+}
+
+#u246_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:60px;
+    height:42px;
+}
+
+.u247 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:50px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u248_normal {
+    background-image: url('../装备室_files/u158_normal.png');
+}
+
+.u248_container {
+    position:absolute;
+    left:423px;
+    top:180px;
+    width:40px;
+    height:36px;
+}
+
+#u248_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:42px;
+}
+
+.u249 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u250_normal {
+    background-image: url('../装备室_files/u160_normal.png');
+}
+
+.u250_container {
+    position:absolute;
+    left:463px;
+    top:180px;
+    width:338px;
+    height:36px;
+}
+
+#u250_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:344px;
+    height:42px;
+}
+
+.u251 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:334px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u252_normal {
+    background-image: url('../装备室_files/u144_normal.png');
+}
+
+.u252_container {
+    position:absolute;
+    left:0px;
+    top:216px;
+    width:120px;
+    height:36px;
+}
+
+#u252_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:42px;
+}
+
+.u253 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u254_normal {
+    background-image: url('../装备室_files/u146_normal.png');
+}
+
+.u254_container {
+    position:absolute;
+    left:120px;
+    top:216px;
+    width:55px;
+    height:36px;
+}
+
+#u254_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:61px;
+    height:42px;
+}
+
+.u255 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:51px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u256_normal {
+    background-image: url('../装备室_files/u148_normal.png');
+}
+
+.u256_container {
+    position:absolute;
+    left:175px;
+    top:216px;
+    width:38px;
+    height:36px;
+}
+
+#u256_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:44px;
+    height:42px;
+}
+
+.u257 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:34px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u258_normal {
+    background-image: url('../装备室_files/u150_normal.png');
+}
+
+.u258_container {
+    position:absolute;
+    left:213px;
+    top:216px;
+    width:41px;
+    height:36px;
+}
+
+#u258_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:47px;
+    height:42px;
+}
+
+.u259 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:37px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u260_normal {
+    background-image: url('../装备室_files/u152_normal.png');
+}
+
+.u260_container {
+    position:absolute;
+    left:254px;
+    top:216px;
+    width:64px;
+    height:36px;
+}
+
+#u260_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:70px;
+    height:42px;
+}
+
+.u261 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u262_normal {
+    background-image: url('../装备室_files/u154_normal.png');
+}
+
+.u262_container {
+    position:absolute;
+    left:318px;
+    top:216px;
+    width:51px;
+    height:36px;
+}
+
+#u262_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:57px;
+    height:42px;
+}
+
+.u263 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:47px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u264_normal {
+    background-image: url('../装备室_files/u156_normal.png');
+}
+
+.u264_container {
+    position:absolute;
+    left:369px;
+    top:216px;
+    width:54px;
+    height:36px;
+}
+
+#u264_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:60px;
+    height:42px;
+}
+
+.u265 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:50px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u266_normal {
+    background-image: url('../装备室_files/u158_normal.png');
+}
+
+.u266_container {
+    position:absolute;
+    left:423px;
+    top:216px;
+    width:40px;
+    height:36px;
+}
+
+#u266_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:42px;
+}
+
+.u267 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u268_normal {
+    background-image: url('../装备室_files/u160_normal.png');
+}
+
+.u268_container {
+    position:absolute;
+    left:463px;
+    top:216px;
+    width:338px;
+    height:36px;
+}
+
+#u268_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:344px;
+    height:42px;
+}
+
+.u269 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:334px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u270 {
+    position:absolute;
+    left:19px;
+    top:25px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u271_normal {
+    background-image: url('../装备室_files/u271_normal.png');
+}
+
+.u271_container {
+    position:absolute;
+    left:12px;
+    top:574px;
+    width:235px;
+    height:135px;
+}
+
+#u271_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:241px;
+    height:141px;
+}
+
+.u272 {
+    position:absolute;
+    left:2px;
+    top:52px;
+    width:231px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u273 {
+    position:absolute;
+    left:54px;
+    top:687px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u274_normal {
+    background-image: url('../装备室_files/u271_normal.png');
+}
+
+.u274_container {
+    position:absolute;
+    left:280px;
+    top:574px;
+    width:235px;
+    height:135px;
+}
+
+#u274_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:241px;
+    height:141px;
+}
+
+.u275 {
+    position:absolute;
+    left:2px;
+    top:52px;
+    width:231px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u276 {
+    position:absolute;
+    left:322px;
+    top:687px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
